@@ -1,3 +1,6 @@
+html {
+  scroll-behavior: smooth;
+}
 ul {
   list-style-type: none;
   margin: 0;
@@ -109,3 +112,17 @@ li {
 }
 
 
+footer{
+  margin: 0;
+  padding: 0%;
+  background-color: bisque;
+}
+#pp:hover{
+  box-shadow: 25px 25px 50px dimgrey;
+}
+#video1 :hover {
+  border-width: 24px;
+  border-style: ridge;
+  border-color: gray;
+  
+}
